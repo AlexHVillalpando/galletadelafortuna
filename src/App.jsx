@@ -1,4 +1,4 @@
-import Frases from './componentes/frases';
+import Frases from './componentes/Frases.jsx';
 
 function App() {
 	return <Frases />;

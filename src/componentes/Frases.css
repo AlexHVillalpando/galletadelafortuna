@@ -13,7 +13,6 @@
 }
 
 .container {
-	border: 3px solid red;
 	display: flex;
 	flex-direction: column;
 	gap: 0.25em;
